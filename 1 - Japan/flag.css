@@ -1,0 +1,38 @@
+html, body{
+    height: 100%;
+}
+.body {
+    background-color: #2c2c2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.header-text {
+    color: #d3d3d3;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.flag-image-src {
+    width: 500px;
+    height: 300px;
+}
+
+.flag-background {
+    background-color: #ffffff;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flag-circle {
+    height: 192px;
+    width: 200px;
+    background-color: #BE0029;
+    border-radius: 50%;
+
+}
